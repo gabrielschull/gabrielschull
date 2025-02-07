@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Gabriel Schull
 
-Toronto, ON (Open to relocation)  
+Toronto, ON
 **gabrielfschull@gmail.com** | [gabrielschull.com](https://gabrielschull.com)  | [LinkedIn](https://linkedin.com/in/gabrielschull)
 
 ---
