@@ -9,7 +9,7 @@ Toronto, ON (Open to relocation)
 
 I'm a **Fullstack Engineer** with a deep passion for scalable systems, data-driven applications, and innovative product development. I love to build and optimize large-scale applications, integrating real-time data pipelines, advanced search architectures, and backend infrastructure.  
 
-I thrive in fast-paced environments, solving complex problems across the stack, from **high-performance backend architectures** to **intuitive front-end experiences**. My projects involve a mix of **web scraping, data aggregation, and serverless computing**, always focusing on efficiency and scalability.  
+I thrive in fast-paced environments, solving complex problems across the stack, from **high-performance backend architectures** to **intuitive front-end experiences**. My projects involve a mix of **web scraping, data aggregation, and serverless computing**, always focusing on efficiency and scalability.
 
 ---
 
