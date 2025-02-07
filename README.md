@@ -30,6 +30,4 @@ I thrive in fast-paced environments, solving complex problems across the stack, 
 ---
 
 ## 📬 Get in Touch  
-
-If you're working on **scalable systems, data-driven apps, or AI-powered products**, I'd love to connect!  
 **gabrielfschull@gmail.com** | [LinkedIn](https://linkedin.com/in/gabrielschull)  
