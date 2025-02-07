@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=slice)
+
 # 👋 Hey, I'm Gabriel Schull
 
 Toronto, ON
